@@ -1,2 +1,2 @@
-based58==2.1.1
-pycryptodome==3.20.0
+based58
+pycryptodome
